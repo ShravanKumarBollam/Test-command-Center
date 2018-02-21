@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: WebApplication, Configuration: Debug Any CPU ------
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2041,5): warning MSB3245: Could not resolve this reference. Could not locate the assembly "Microsoft.Data.Tools.Schema.Sql, Version=13.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL". Check to make sure the assembly exists on disk. If this reference is required by your code, you may get compilation errors.
+1>C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(2041,5): warning MSB3277: Found conflicts between different versions of "Microsoft.Data.Tools.Schema.Sql" that could not be resolved.  These reference conflicts are listed in the build log when log verbosity is set to detailed.
+1>  WebApplication -> E:\CCcenter\C#\WebApplication\bin\WebApplication.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
